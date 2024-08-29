@@ -1,0 +1,14 @@
+e:\PlaylistMaker\TxtToM3U\bin\Debug\net8.0\TxtToM3U.exe
+e:\PlaylistMaker\TxtToM3U\bin\Debug\net8.0\TxtToM3U.deps.json
+e:\PlaylistMaker\TxtToM3U\bin\Debug\net8.0\TxtToM3U.runtimeconfig.json
+e:\PlaylistMaker\TxtToM3U\bin\Debug\net8.0\TxtToM3U.dll
+e:\PlaylistMaker\TxtToM3U\bin\Debug\net8.0\TxtToM3U.pdb
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\TxtToM3U.GeneratedMSBuildEditorConfig.editorconfig
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\TxtToM3U.AssemblyInfoInputs.cache
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\TxtToM3U.AssemblyInfo.cs
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\TxtToM3U.csproj.CoreCompileInputs.cache
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\TxtToM3U.dll
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\refint\TxtToM3U.dll
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\TxtToM3U.pdb
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\TxtToM3U.genruntimeconfig.cache
+e:\PlaylistMaker\TxtToM3U\obj\Debug\net8.0\ref\TxtToM3U.dll
