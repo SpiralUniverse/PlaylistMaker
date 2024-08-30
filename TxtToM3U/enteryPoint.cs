@@ -21,12 +21,12 @@ namespace TxtToM3U
                 inputLines.Add(inputLine);
             }
 
-            //Console.Clear();
+            Console.Clear();
             string inputText = string.Join("\n", inputLines);
 
             ProcessInput(inputText);
             Console.WriteLine($"Number of warnings (per song) = {notFound} | Number of errors = {errors} | Number of Improperly formatted {improperlyFormatted}");
-            //Console.ReadKey();
+            Console.ReadKey();
         }
 
         static void ProcessInput(string inputText)
