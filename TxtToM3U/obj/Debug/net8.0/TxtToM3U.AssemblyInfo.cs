@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TxtToM3U")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c8f97480f114091d9e062e0c16702fa996af47a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f554766970eb3f6d9b75ece0204c219cf3f4ae4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TxtToM3U")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TxtToM3U")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
